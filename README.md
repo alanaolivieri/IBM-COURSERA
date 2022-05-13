@@ -1,2 +1,2 @@
-# IBM-COURSERA
-Final Project
+# COURSERA
+Jupyter Notebook Tutorial
